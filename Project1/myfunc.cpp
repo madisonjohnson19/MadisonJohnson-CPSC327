@@ -1,11 +1,6 @@
-#include <iostream>
+cat#include "myfunc.h"
 
-std::string func()
+std:: string func()
 {
-	return "hello";
-	}
-int main()
-{
-std::cout<<func()<<std::endl;
-return 0;
-}
+  return "hello";
+    }
